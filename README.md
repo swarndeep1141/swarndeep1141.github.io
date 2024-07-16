@@ -1,5 +1,5 @@
-# swarndeep1141.github.io
-Activity report of student induction pro 
+# swarndeep1141.github.i
+ACTIVITY REPORT OF STUDENT INDUCTION PROGRAM
  
 | Date | Resource Person | Description |  
 | :-   | :-              | :-          |                              
@@ -12,4 +12,4 @@ Activity report of student induction pro
 | 15-07-24 | Dr. Randhir singh | Sir tells about how to sign up on Github and how to create a repository |
 | 15-07-24 | Mr. Sony Goyal | Sir tells about 4 mantras for success in college life |
 | 15-07-24 | Mr. Pancham | Give information about how we can judge the expressions of the different persons by the actions of person and tells about the projects runs by the college on international level |
-| 16-07-24 |             | information about the IT department and visit to different labs of IT department |
+| 16-07-24 | Er. Rupinder Kaur and Dr.Sidharth Jain | information about the IT department and visit to different labs of IT department |
