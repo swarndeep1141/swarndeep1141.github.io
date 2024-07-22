@@ -13,3 +13,9 @@ ACTIVITY REPORT OF STUDENT INDUCTION PROGRAM
 | 15-07-24 | Mr. Sony Goyal | Sir tells about 4 mantras for success in college life |
 | 15-07-24 | Mr. Pancham | Give information about how we can judge the expressions of the different persons by the actions of person and tells about the projects runs by the college on international level |
 | 16-07-24 | Er. Rupinder Kaur and Dr.Sidharth Jain | information about the IT department and visit to different labs of IT department |
+| 17-07-24 | SKG Mam | Practice sums of differentiation & integration |
+| 17-07-24 | Manjot kaur | Chapter - 1 of Human Value ,INTRODUCTION TO VALUE EDUCATION |
+| 18-07-24 | Manjot kaur | Chapter - 2 of Human value ,Understanding The Human Being |
+| 18-07-24 | Sharanpreet singh & Tanmay | Basic of CHAT GPT & MS EXCEL |
+| 18-07-24 | Dr. Harwinder Singh , ANO - NCC | Introduction to NCC Programs |
+| 18-07-24 | Er. Jasvir Singh Grewal Coordinator - NSS | Introduction to programs of NSS |
