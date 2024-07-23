@@ -11,13 +11,14 @@ ACTIVITY REPORT OF STUDENT INDUCTION PROGRAM
 | 15-07-24 | Dr. Pyare Lal | Sir tells about important things of life |
 | 15-07-24 | Dr. Randhir singh | Sir tells about how to sign up on Github and how to create a repository |
 | 15-07-24 | Mr. Sony Goyal | Sir tells about 4 mantras for success in college life |
-| 15-07-24 | Mr. Pancham | Give information about how we can judge the expressions of the different persons by the[swarndeep singh excel.zip](https://github.com/user-attachments/files/16341423/swarndeep.singh.excel.zip)
+| 15-07-24 | Mr. Pancham | Give information about how we can judge the expressions of the different persons by the
  actions of person and tells about the projects runs by the college on international level |
 | 16-07-24 | Er. Rupinder Kaur and Dr.Sidharth Jain | information about the IT department and visit to different labs of IT department |
 | 17-07-24 | SKG Mam | Practice sums of differentiation & integration |
 | 17-07-24 | Manjot kaur | Chapter - 1 of Human Value ,INTRODUCTION TO VALUE EDUCATION |
 | 18-07-24 | Manjot kaur | Chapter - 2 of Human value ,Understanding The Human Being |
-| 18-07-24 | Sharanpreet singh & Tanmay | Basic of CHAT GPT & MS EXCEL |
+| 18-07-24 | Sharanpreet singh & Tanmay | Basic of CHAT GPT & MS EXCEL
+
 | 18-07-24 | Dr. Harwinder Singh , ANO - NCC | Introduction to NCC Programs |
 | 18-07-24 | Er. Jasvir Singh Grewal Coordinator - NSS | Introduction to programs of NSS |
 | 19-07-24 | Er. Kanwardeep Kalra | Tells about the skills necessary for got selected in INTERVIEW for JOB |
@@ -26,4 +27,5 @@ ACTIVITY REPORT OF STUDENT INDUCTION PROGRAM
 | 22-07-24 | Dr. S.B. Singh | Help us to introspect ourselves |
 | 22-07-24 | Dr. Pushpinder Singh | Tells about how to learn  things more effectively by following the path shown by teachers |
 | 22-07-24 | Dr. Sangeeta | Tells about how human beings polluting the nature and surrounding & the steps follow to protect the nature |
-[swarndeep singh excel.zip](https://github.com/user-attachments/files/16341423/swarndeep.singh.excel.zip)
+
+[SWARNDEEP SINGH (3).pdf](https://github.com/user-attachments/files/16341498/SWARNDEEP.SINGH.3.pdf)
