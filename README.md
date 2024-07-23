@@ -18,7 +18,6 @@ ACTIVITY REPORT OF STUDENT INDUCTION PROGRAM
 | 17-07-24 | Manjot kaur | Chapter - 1 of Human Value ,INTRODUCTION TO VALUE EDUCATION |
 | 18-07-24 | Manjot kaur | Chapter - 2 of Human value ,Understanding The Human Being |
 | 18-07-24 | Sharanpreet singh & Tanmay | Basic of CHAT GPT & MS EXCEL
-
 | 18-07-24 | Dr. Harwinder Singh , ANO - NCC | Introduction to NCC Programs |
 | 18-07-24 | Er. Jasvir Singh Grewal Coordinator - NSS | Introduction to programs of NSS |
 | 19-07-24 | Er. Kanwardeep Kalra | Tells about the skills necessary for got selected in INTERVIEW for JOB |
